@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there! I'm Vivek Kumar<br><br>🎓 I'm currently pursuing B.Tech in Artificial Intelligence & Machine Learning.  <br>💻 Passionate about full-stack web development and constantly learning new technologies.  <br>🌱 Currently working with the **MERN stack** and exploring the world of **AI integration** in web apps.  <br>📦 I’ve built projects like a **Password Manager**, **Weather App**, and more.  <br>🎯 Actively improving my skills in **DSA (C++)**, **Node.js**, and **React**.  <br>🛠️ Tools & Technologies I use:  <br>`HTML` `CSS` `JavaScript` `React` `Node.js` `MongoDB` `Express` `Git` `VS Code`<br><br>
+## 👋 Hey there! I'm Vivek Kumar<br><br>🎓 I'm currently pursuing B.Tech in Artificial Intelligence & Machine Learning.  <br>💻 Passionate about full-stack web development and constantly learning new technologies.  <br>🌱 Currently working with the **MERN stack** and exploring the world of **AI integration** in web apps.  <br>📦 I’ve built projects like a **Food Delivery App**, **Real-Time Chat Application**, and more.  <br>🎯 Actively improving my skills in **DSA (C++)**, **Node.js**, and **React**.  <br>🛠️ Tools & Technologies I use:  <br>`HTML` `CSS` `JavaScript` `React` `Node.js` `MongoDB` `Express` `Git` `VS Code`<br><br>
 
 
 ## 🌐 Socials:
