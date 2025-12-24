@@ -1,8 +1,10 @@
-![👋 Hi, my name is Vivek Kumar](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif
-)
+[![MasterHead](https://media3.giphy.com/headers/levberry/wWIVadS9YYBK.gif)](https://media3.giphy.com/headers/levberry/wWIVadS9YYBK.gif)
+
 
 # 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=800&lines=Hi%2C+I'm+Vivek+Kumar+👋;Full-Stack+Developer;AIML+Student;Building+AI-Powered+Web+Apps)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vivek009-hub&label=Profile%20views&color=0e75b6&style=flat)
 
