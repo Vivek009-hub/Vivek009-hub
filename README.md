@@ -1,6 +1,5 @@
 [![MasterHead](https://media3.giphy.com/headers/levberry/wWIVadS9YYBK.gif)](https://media3.giphy.com/headers/levberry/wWIVadS9YYBK.gif)
 
-
 # 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=800&lines=Hi%2C+I'm+Vivek+Kumar+👋;Full-Stack+Developer;AIML+Student;Building+AI-Powered+Web+Apps)
 
