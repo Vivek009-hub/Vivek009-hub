@@ -4,7 +4,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=800&lines=Hi%2C+I'm+Vivek+Kumar+👋;Full-Stack+Developer;AIML+Student;Building+AI-Powered+Web+Apps)
 
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vivek009-hub&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
